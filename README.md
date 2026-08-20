@@ -1,7 +1,7 @@
 # Titanic Passenger Analysis Dashboard
 
 Data analysis project examining survival patterns on the Titanic using SQL-style pandas queries, an interactive Looker Studio dashboard, and AI-generated insight summaries.
-## Dashboard [View live dashboard](https://datastudio.google.com/reporting/277d025f-16d8-4792-acb0-58aec0e38333)
+## Dashboard (https://datastudio.google.com/reporting/277d025f-16d8-4792-acb0-58aec0e38333)
 
 ## What this project does
 - Cleaned and validated raw passenger data (handled missing values, duplicates)
